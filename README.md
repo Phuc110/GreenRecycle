@@ -1,4 +1,4 @@
-# 🌱 GreenRecycle
+#  GreenRecycle
 
 ## Project Description
 
